@@ -1,0 +1,4 @@
+agendamento\model\Appointment.class
+agendamento\repository\AppointmentRepository.class
+agendamento\AgendamentoApplication.class
+agendamento\controller\AppointmentController.class
